@@ -126,3 +126,6 @@ html {
   }
   95% {
       transform: translateX(10vw) translateY(100vh) rotateZ(0deg)
+
+  }
+}
